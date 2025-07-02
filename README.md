@@ -3,7 +3,7 @@
 
 A simple, stylish, and fun **Tic Tac Toe** game made using **HTML**, **CSS**, and **JavaScript**, designed with colorful UI and winner animations.
 
-![Game Screenshot](Tic%20tac%20Toe%20Media.jpg)
+![Game Screenshot](tic-tac-toe-media.jpg)
 
 ---
 
@@ -44,10 +44,10 @@ Or run it locally:
 ## 📸 Screenshots
 
 ### Default Interface  
-![Default View](Tic%20tac%20Toe%20Media.jpg)
+![Default View](tic-tac-toe-media.jpg)
 
 ### Winner Celebration  
-![Winner View](Winner%20Temp.jpg)
+![Winner View](winner-temp.jpg)
 
 ---
 
@@ -57,19 +57,10 @@ Or run it locally:
 ├── index.html             # Main HTML structure
 ├── style.css              # Game UI design
 ├── game.js                # Game logic and interactivity
-├── Tic tac Toe Media.jpg  # Game screen UI preview
-├── Winner Temp.jpg        # Winner announcement image
-```
-
----
-
-## 📂 How to Use / Run
-
-You can run the project locally:
-```bash
-git clone https://github.com/pranay-kamble3/Tic-Tac-Toe.git
-cd Tic-Tac-Toe
-open index.html (or open in VS Code + Live Server)
+├── TicTacToe.jpg          # Background image
+├── winner.png             # Winner 🥇 png
+├── tic-tac-toe-media.jpg  # Game screen UI preview
+├── winner-temp.jpg        # Winner announcement image
 ```
 
 ---
