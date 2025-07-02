@@ -41,6 +41,7 @@ boxes.forEach((box) => {
         } else {  
             //PlayerX
             box.innerText = "X";
+             box.style.color = "#000000";
             turnO = true;
         }
         box.disabled = true;
